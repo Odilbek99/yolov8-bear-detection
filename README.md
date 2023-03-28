@@ -1,4 +1,10 @@
 # yolov8-bear-detection
+![GitHub repo size](https://img.shields.io/github/repo-size/Odilbek99/yolov8-bear-detection)
+![GitHub contributors](https://img.shields.io/github/contributors/Odilbek99/yolov8-bear-detection)
+![GitHub stars](https://img.shields.io/github/stars/Odilbek99/yolov8-bear-detection)
+![GitHub forks](https://img.shields.io/github/forks/Odilbek99/yolov8-bear-detection)
+
+
 The repository contains the code for object detection using YOLOv8 architecture. The repository contains the following folders and files:
 
 # Folders
